@@ -2,4 +2,4 @@
 
 Runs on the vast majority of modern-ish devices.
 
-Generated from [here](https://glad.dav1d.de/#language=c&specification=gl&api=gl%3D4.1&api=gles1%3Dnone&api=gles2%3D3.0&api=glsc2%3Dnone&profile=compatibility&loader=on&omitkhr=on)
+Generated from [here](https://gen.glad.sh/#generator=c&api=gl%3D4.1%2Cgles2%3D3.0&profile=gl%3Dcompatibility%2Cgles1%3Dcommon&options=LOADER%2CMERGE)
